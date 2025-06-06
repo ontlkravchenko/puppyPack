@@ -1,0 +1,10 @@
+/* public/style.css */
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: green;
+}
